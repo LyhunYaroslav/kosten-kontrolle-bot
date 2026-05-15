@@ -32,5 +32,5 @@ Alle Daten werden lokal in einer SQLite-Datenbank gespeichert.
 
 1. Repository klonen
 ```bash
-git clone https://github.com/dein-user/finanz-tracker-bot.git
-cd finanz-tracker-bot
+git clone https://github.com/LyhunYaroslav/kostenkontrollebot.git
+cd kostenkontrollebot
