@@ -30,7 +30,8 @@ Alle Daten werden lokal in einer SQLite-Datenbank gespeichert.
 
 ## ⚙️ Installation
 
-1. Repository klonen
+### Repository klonen
+
 ```bash
 git clone https://github.com/LyhunYaroslav/kostenkontrollebot.git
 cd kostenkontrollebot
