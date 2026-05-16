@@ -33,5 +33,5 @@ Alle Daten werden lokal in einer SQLite-Datenbank gespeichert.
 ### Repository klonen
 
 ```bash
-git clone https://github.com/LyhunYaroslav/kostenkontrollebot.git
-cd kostenkontrollebot
+git clone https://github.com/LyhunYaroslav/kosten-kontrolle-bot.git
+cd kosten-kontrolle-bot
